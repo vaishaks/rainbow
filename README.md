@@ -6,6 +6,8 @@ It was designed to be lightweight (1.4kb), easy to use, and extendable.
 
 It is completely themable via CSS.
 
+If you would like to donate to help support Rainbow development use [Gittip](https://www.gittip.com/ccampbell).
+
 ## Quick Start
 
 1. Include some markup for code you want to be highlighted:
@@ -54,19 +56,27 @@ You can include the php language then in the markup on your page add:
 ## Supported Languages
 
 Currently supported languages are:
-- Javascript
-- HTML
+- C
+- C#
+- Coffeescript
 - CSS
+- Go
+- HTML
+- Java
+- Javascript
+- Lua
 - PHP
 - Python
+- R
 - Ruby
-- C
-- Shell
 - Scheme
-- Lua
-- C#
+- Shell
 - Smalltalk
 
 ## More Info
+
+If you are looking for line number support you can try one of the following:
+- https://github.com/Blender3D/rainbow.linenumbers.js
+- https://github.com/Sjeiti/rainbow.linenumbers
 
 You can check out additional documentation and build custom packages at [rainbowco.de](http://rainbowco.de).
